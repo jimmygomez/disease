@@ -1,5 +1,5 @@
 #Modelamiento para el ciclo de la enfermedad, Epifitias de enfermedades de las plantas.
-## CICLO DEL NEMATODE CON RESPECTO A LA TEMEPERATURA
+## CICLO DEL NEMATODE CON RESPECTO A LA TEMPERATURA
 ## Set up the vector of nematode populations
 
 # Cicle vs temperature ----------------------------------------------------
